@@ -7,15 +7,22 @@ I like building things from scratch and seeing them actually work — whether th
 
 🌱 Sharpening my Java, DSA, and Full-Stack skills
 
-#Tech Stack
+##Tech Stack
 
-Java
-SpringBoot
-JDBC
+Java,
+
+SpringBoot,
+
+JDBC,
 
 HTML
+
 CSS
+
 JavaScript
+
 Bootstrap
+
 React
+
 MySQL
