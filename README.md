@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**roshinicodes/roshinicodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate (Anna University, 2025) | 💻 Java & Web Developer | 🚀 Fresher looking for my first full-time role
 
-Here are some ideas to get you started:
+I like building things from scratch and seeing them actually work — whether that's a web app with real user roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🌱 Sharpening my Java, DSA, and Full-Stack skills
+
+#Tech Stack
+
+Java
+SpringBoot
+JDBC
+
+HTML
+CSS
+JavaScript
+Bootstrap
+React
+MySQL
